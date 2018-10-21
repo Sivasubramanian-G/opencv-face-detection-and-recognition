@@ -1,0 +1,7 @@
+1.install opencv from conda-forge channel
+2.install libopencv-* using apt
+3.make sure cascades are in correct path
+4.install gtk2 using conda
+5.install pkg-config and pkgconfig using conda
+
+
